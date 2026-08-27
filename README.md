@@ -1,4 +1,4 @@
-# $\color{#f89b80}\textsf{"Ta-da! Hey, look! Didn't I do a great job? Hahaha! Come on, tell me I did a good job already!"}$
+# $\color{#f89b80}\textsf{"Ta-da! Hey, look! Didn't I do a great job? Hahaha! Come on, tell me I did a}$ $\color{#f89b80}\textsf{good job already!"}$
 
 <img width="306" height="237" alt="image" src="https://github.com/user-attachments/assets/9cbb7a43-e2b4-4600-994d-119c5516edc7" />
 
