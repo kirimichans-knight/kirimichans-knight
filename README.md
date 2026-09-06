@@ -10,6 +10,8 @@ $\color{#f89b80}\textsf{IWCUF ! Feel free to C+H, but don't expect any talking}$
 
 $\color{#f89b80}\textsf{I love loove looove Kirimichan !!}$
 
+$\color{#f89b80}\textsf{F/Os: Kurode, Willmesh, Arupek, Tuxam, Hangyon, and Pikero (Sharing !)}$
+
 <img width="48" height="48" alt="tumblr_54629b84872151af5c931fdf076db3b0_3eafeb04_75" src="https://github.com/user-attachments/assets/fd823851-0000-4e44-967a-58fae3ca329f" />
 
 <img width="150" height="20" alt="tumblr_25d097b877827fda3fccaf807482b39b_5f6dcd11_250" src="https://github.com/user-attachments/assets/25c4f2f3-5782-4834-9f04-6f59630a283e" />
